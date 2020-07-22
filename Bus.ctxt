@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Bus
+comment0.text=\r\n\ Bus\ Class\r\n\ \r\n\ A\ class\ inherited\ from\ the\ Vehicle\ class,\ with\ a\ drive\ method\ and\ a\ method\r\n\ to\ check\ for\ intersections\ with\ slow\ or\ fast\ pedestrians.\ \r\n\ \r\n\ @author\ Star\ Xie\r\n\ @version\ October\ 2019\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Bus\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ drive()
+comment3.params=
+comment3.target=void\ checkHitPedestrian()
+numComments=4

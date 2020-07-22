@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FastPerson
+comment0.text=\r\n\ FastPerson\ Class\r\n\ \r\n\ Moves\ mindlessly\ on\ the\ road,\ four\ times\ faster\ than\ the\ FastPerson.\r\n\ Inherits\ from\ the\ Pedestrian\ class\ and\ reacts\ to\ cars\ that\ hit\ it,\ \r\n\ ambulances\ that\ heal\ it,\ buses\ that\ pick\ it\ up,\ and\ ice\ cream\ trucks\ \r\n\ that\ make\ it\ larger.\r\n\ \r\n\ @author\ Star\ Xie\r\n\ @version\ October\ 2019\r\n
+comment1.params=
+comment1.target=FastPerson()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ FastPerson\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=3

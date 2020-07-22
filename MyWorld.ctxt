@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\r\n\ MyWorld\ functions\ as\ the\ Controller\ for\ this\ Greenfoot\r\n\ project\ which\ helps\ students\ understand\ inheritance\r\n\ \r\n\ Written\ Task\:\r\n\ In\ the\ Vehicles\ assignment,\ I\ have\ made\ various\ changes\ involving\ \r\n\ inheritance\ to\ various\ classes\ and\ I\ have\ created\ new\ classes\ which\ \r\n\ implement\ inheritance.\ Firstly,\ I\ created\ a\ new\ class\ that\ was\ an\ Ice\ \r\n\ Cream\ Truck\ that\ inherited\ from\ the\ Vehicles\ superclass.\ The\ Ice\ Cream\r\n\ Truck\ class\ made\ all\ Pedestrians\ (except\ for\ the\ SuperHero)\ get\ bigger\r\n\ both\ horizontally\ and\ vertically.\ I\ also\ created\ three\ classes\ that\ \r\n\ inherited\ from\ the\ Pedestrian\ class.\ The\ first\ two\ classes\ I\ created\ were\r\n\ a\ fast\ and\ slow\ pedestrian,\ moving\ at\ speeds\ of\ 4\ and\ 1,\ respectively.\ The\r\n\ only\ difference\ between\ the\ classes\ was\ to\ implement\ people\ crossing\ the\ \r\n\ street\ at\ different\ speeds.\ Another\ class\ I\ created\ that\ was\ part\ of\ the\r\n\ Pedestrian\ class\ was\ the\ the\ SuperHero\ class.\ The\ concept\ behind\ that\ class\r\n\ was\ to\ have\ a\ super\ hero\ baby\ that\ would\ sacrifice\ itself\ in\ an\ explosion\r\n\ with\ a\ Car\ to\ fend\ for\ the\ greater\ good,\ as\ Cars\ killed\ the\ other\ \r\n\ Pedestrians\ that\ were\ walking\ fast\ and\ slow.\ in\ the\ SuperHero\ class,\ the\r\n\ Ambulance,\ Bus\ and\ IceCreamTruck\ classes\ did\ not\ apply,\ so\ that\ the\ \r\n\ baby\ could\ not\ die,\ ride\ a\ bus,\ or\ get\ larger.\ Throughout\ my\ experiments,\r\n\ having\ inheritance\ was\ essencial\ to\ avoid\ redundancy\ in\ the\ code,\ and\ \r\n\ inheritance\ itself\ had\ great\ uses\ in\ the\ project.\ By\ using\ protected\ \r\n\ variables\ and\ methods,\ I\ could\ reduce\ the\ amount\ of\ code\ for\ a\ lot\ of\r\n\ my\ other\ classes\ and\ make\ my\ code\ clear\ and\ concise.\ As\ a\ programmer,\ \r\n\ allowing\ classes\ to\ inherit\ commonly\ used\ state\ and\ behaviour\ was\ really\r\n\ helpful\ to\ the\ assignment\ as\ well.\ By\ creating\ a\ superclass,\ I\ avoided\r\n\ having\ similar\ methods\ and\ variables\ in\ many\ of\ the\ classes\ I\ created\ in\r\n\ this\ simulation.\ For\ example,\ instead\ of\ creating\ 4\ classes\ of\ Pedestrians\r\n\ and\ Vehicles,\ I\ could\ create\ a\ superclass\ and\ have\ that\ as\ a\ template\r\n\ for\ creating\ classes\ with\ similar\ uses\ that\ were\ different.\ All\ in\ all,\r\n\ inheritance\ has\ largely\ helped\ with\ this\ Vehicles\ assignment,\ and\ is\ \r\n\ very\ useful\ to\ avoid\ redundancy\ in\ coding.\ \r\n\ \r\n\ @author\ Star\ Xie\r\n\ @version\ October\ 2019\r\n
+comment1.params=
+comment1.target=MyWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ spawnVehicles()
+comment4.params=
+comment4.target=void\ spawnPedestrians()
+comment5.params=inLane
+comment5.target=int\ getYPosition(int)
+comment5.text=\r\n\ Returns\ the\ appropriate\ y\ coordinate\ for\ a\ given\ lane\r\n
+numComments=6

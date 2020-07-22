@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Pedestrian
+comment0.text=\r\n\ Pedestrian\ Class\r\n\ \r\n\ An\ abstract\ class\ that\ creates\ Pedestrians\ that\ move\ mindlessly\ up\ the\ \r\n\ road,\ reacting\ to\ cars\ that\ hit\ it,\ ambulances\ that\ heal\ it,\ \r\n\ and\ potentially\ buses\ that\ pick\ it\ up\ and\ an\ ice\ cream\ truck\ to\ make\ it\ \r\n\ \r\n\ \r\n\ @author\ Star\ Xie\r\n\ @version\ October\ 2019\r\n
+comment1.params=
+comment1.target=void\ knockMeOver()
+comment1.text=\r\n\ Method\ causes\ this\ Pedestrian\ to\ stop\ moving\r\n\ and\ appear\ to\ fall\ over\r\n
+comment2.params=
+comment2.target=void\ healMe()
+comment2.text=\r\n\ Method\ causes\ this\ pedestrian\ to\ "heal"\ -\ regain\r\n\ upright\ position\ and\ start\ moving\ again\r\n
+comment3.params=
+comment3.target=void\ pickMeUp()
+comment3.text=\r\n\ Method\ causes\ the\ pedestrian\ to\ get\ picked\ up\r\n\ by\ the\ bus\ \r\n
+comment4.params=
+comment4.target=void\ makeBigger()
+comment4.text=\r\n\ Method\ causes\ the\ pedestrian\ to\ become\ bigger\r\n
+comment5.params=
+comment5.target=boolean\ atWorldEdge()
+comment5.text=\r\n\ Handy\ method\ that\ checks\ if\ this\ object\ is\ at\ the\ edge\r\n\ of\ the\ World\r\n\ \r\n\ @return\ boolean\ \ true\ if\ at\ or\ past\ the\ edge\ of\ the\ World,\ otherwise\ false\r\n
+numComments=6
